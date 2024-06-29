@@ -30,7 +30,6 @@ body {
 .app {
   min-height: 66vh;
   display: grid;
-  border: 2px solid black;
   column-gap: 4rem;
   align-items: start;
   grid-template-columns: 38rem 44rem;
